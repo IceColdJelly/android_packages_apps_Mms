@@ -22,7 +22,7 @@
     <style name="TextAppearance.SearchResult.Subtitle">
         <item name="android:textSize">13sp</item>
         <item name="android:textColor">?android:textColorSecondaryInverse</item>
-    </style>s
+    </style>
 
     <style name="MmsHoloTheme" parent="@android:style/Theme.Holo">
         <item name="android:windowBackground">@android:color/black</item>
